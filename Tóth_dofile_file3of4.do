@@ -1,6 +1,3 @@
-****ANALYSIS MASTER THESIS ****
-****Zsanett Bettina Tóth ****
-****STUDENT ID: 6242896 ****
 
 pwd
 import excel "C:/Users/tothzsanett/Library/Mobile Documents/com~apple~CloudDocs/Uni/MPP/thesis/3.0/data/Final_data.xlsx", sheet("Sheet1") firstrow clear
